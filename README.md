@@ -1,8 +1,6 @@
 # BlinkingLabel
 
-[![CI Status](http://img.shields.io/travis/Chris (Atticus)/BlinkingLabel.svg?style=flat)](https://travis-ci.org/Chris (Atticus)/BlinkingLabel)
 [![Version](https://img.shields.io/cocoapods/v/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
-[![License](https://img.shields.io/cocoapods/l/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![Platform](https://img.shields.io/cocoapods/p/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 
 ## Usage
